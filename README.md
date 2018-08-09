@@ -4,6 +4,8 @@ All living cells are the product of gene expression systems involving the contro
 
 This analysis is done with the goal of locating key operons and unique network motifs (unique clusters) which can highlight key biological pathways and previously unknown interactions.
 
+![Alt Text](https://github.com/Zack-Berman/Network-Analysis/blob/master/TF%20Network.png "Transcription Factor Network")
+
 ## Dependencies
 
 - python
